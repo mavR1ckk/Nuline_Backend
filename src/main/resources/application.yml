@@ -12,6 +12,6 @@ server:
 spring:
   data:
     mongodb:
-      host: localhost
+      host: 3.6.90.240
       port: 27017
       database: NulinePublic
